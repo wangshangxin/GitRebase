@@ -1,3 +1,4 @@
+
 original text
 
 
@@ -5,3 +6,9 @@ sourcetree update 1
 sourcetree update 2
 
 mywork update 1
+
+original text
+
+mywork update 1
+mywork update 2£
+
