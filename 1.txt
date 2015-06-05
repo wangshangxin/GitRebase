@@ -1,6 +1,5 @@
 original text
 
-
 sourcetree update 1
 
 
@@ -11,3 +10,7 @@ mywork update 2
 mywork update 3
 
 mywork update 4
+
+sourcetree update 1
+sourcetree update 2
+
